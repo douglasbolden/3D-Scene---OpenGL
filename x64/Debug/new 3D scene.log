@@ -1,0 +1,13 @@
+﻿E:\Visual Basic\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (new 3D scene.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(323,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(461,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(462,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(466,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(467,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(469,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(470,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(480,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dougl\source\repos\new 3D scene\main.cpp(1634,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  new 3D scene.vcxproj -> C:\Users\dougl\source\repos\new 3D scene\x64\Debug\3D OpenGL Scene.exe
